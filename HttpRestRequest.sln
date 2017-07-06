@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRestRequest", "HttpRestRequest\HttpRestRequest.csproj", "{BB7AEF32-0DD8-4145-98EB-C60A772BA945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7AEF32-0DD8-4145-98EB-C60A772BA945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7AEF32-0DD8-4145-98EB-C60A772BA945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7AEF32-0DD8-4145-98EB-C60A772BA945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7AEF32-0DD8-4145-98EB-C60A772BA945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
